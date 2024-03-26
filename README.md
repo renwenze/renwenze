@@ -5,7 +5,7 @@
 - 🍻 postgraduate at 🇨🇳 [SEU](https://www.seu.edu.cn), _M.Sc in  Cyberspace Security _
 - ⚡ C++ / Python.
 #- 🖋 Writer at [sspai](https://sspai.com/u/aw0luepf/posts)
-- ✍️ [Blogger](https://revioz.top)
+- ✍️ [Blogger](http://super2en.top/)
 - 🏃 football / outdoor
  
 
