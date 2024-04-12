@@ -9,7 +9,7 @@
 - 🍻 🇨🇳 [SEU](https://www.seu.edu.cn),  _MSc in  Cyberspace Security_
 - 🍻 🇨🇳 [XUPT](http://www.xupt.edu.cn/) _BSc in IOT Engineering_
 - ⚡ C++ / Python.
-- ✍️ [Blogger](http://super2en.top/)
+- ✍️ [Blogger](http://www.super2en.top/)
 - 🏃 football / outdoor
 - 🔭 My research interests now are **Deep Learning** and **Natural Language Processing**.
 - 📫 How to reach me: 2wr@seu.edu.cn
